@@ -1,5 +1,8 @@
 ---
 title: C++ note_1
+tags:
+- C++
+- Programming
 ---
 
 选用数据类型时的建议：

@@ -1,5 +1,8 @@
 ---
 title: C++:关于常量const
+tags:
+- C++
+- Programming
 ---
 指向常量的指针（pointer to const）不能用于改变其指向对象的值，但可以指向一个非常量对象
 ```
