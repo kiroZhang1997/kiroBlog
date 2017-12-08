@@ -100,3 +100,6 @@ jsonContent:
     categories: false
     tags: true
   
+about: 
+  enable: true
+  image: '/intro/about-page.jpg'
