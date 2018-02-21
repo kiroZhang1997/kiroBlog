@@ -19,7 +19,7 @@ layout: about
 	 并连续3年在校内展出
 - 2017.6-2017.10，作为团队负责人&策划&主程，使用unreal引擎制作游戏《Obelisk方尖碑》参加2017腾讯高校游戏设计大赛，进入复赛30进10阶段 作品展示链接：
 	 http://gameinstitute.qq.com/webplat/info/news_version3/25667/29517/29519/m17894/201708/629739.shtml
-- 目前作为团队负责人&策划&主程，正在使用unity引擎制作独立游戏《Battery War》,该项目获得全国大学生创新创业大赛国家级立项资格，将于2018年11月结题并上架Appstore与GooglePlay
+- 目前作为团队负责人&策划&主程，正在使用unity引擎制作独立游戏《Battery War》,该项目获得全国大学生创新创业大赛国家级立项资格，将于2018年11月结题并上架Steam
 - 独立翻译国外游戏设计文献，在中文互联网社区发表并获得广泛好评 译文链接：
 	http://gad.qq.com/article/detail/39466  
 	https://www.g-cores.com/articles/96119
